@@ -206,7 +206,7 @@ Each chapter contains:
 | ---------------------- | ---- | -------- | -------------------------------------------------------------------- | ---------------------------------------- |
 | **Vulgata Clementina** | 1592 | Latin    | [Wikisource](https://la.wikisource.org/wiki/Vulgata_Clementina/)     | Public Domain                            |
 | **Torres Amat**        | 1823 | Spanish  | [Credo Bible Study](https://www.credobiblestudy.com/es/read)         | Public Domain                            |
-| **Nácar-Colunga**      | 1944 | Spanish  | DOCX Archive                                                         | Copyright BAC                            |
+| **Nácar-Colunga**      | 1944 | Spanish  | [DOCX](https://essoterico.wordpress.com/wp-content/uploads/2019/12/biblia-nacar-colunga-3.docx) Archive                                                         | Copyright BAC                            |
 | **Jerusalem Bible**    | 1967 | Spanish  | [NPM Package](https://www.npmjs.com/package/biblia-de-jerusalen)     | Copyright Desclée de Brouwer             |
 | **Nova Vulgata**       | 1979 | Latin    | [GitHub](https://github.com/austintheriot/nova-vulgata-with-macrons) | Copyright Libreria Editrice Vaticana     |
 | **CEE**                | 2010 | Spanish  | [CEE Website](https://www.conferenciaepiscopal.es/biblia/)           | Copyright Conferencia Episcopal Española |
